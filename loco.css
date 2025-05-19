@@ -56,7 +56,9 @@ html.has-scroll-smooth {
     border-radius: 10px;
     margin: 2px;
     cursor: -webkit-grab;
-    cursor: grab; }
+    cursor: grab;
+    /* transition: opacity 0.3s, transform 0.3s;   */
+  }
     .has-scroll-dragging .c-scrollbar_thumb {
       cursor: -webkit-grabbing;
       cursor: grabbing; }
