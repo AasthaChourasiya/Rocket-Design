@@ -140,7 +140,8 @@ function workAnimationCode(){
         },
         top: "-100%",
         ease: Power4,
-        stagger: .03
+        stagger: .03,
+        // duration: 1,
     })
 }
 
