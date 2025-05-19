@@ -88,25 +88,6 @@ html,body{
 }
 
 
-
-
-
-/*.textwrapper span{
-    display: inline-block;
-    font-size: 2.5vw;
-    margin-left: 20px;
-}
-
-.textwrapper span:nth-child(1){
-    margin-left: 0;
-}
-
-.textwrapper {
-    width: fit-content;
-    overflow: hidden;
-   
-}*/
-
 .row{
     width:95vw;
     margin-left: 20px;
